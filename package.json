@@ -1,6 +1,6 @@
 {
   "name": "@zenofa/cryptonofa",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cryptonofa - Hash & Encryption Library from Zenofa",
   "main": "index.js",
   "scripts": {

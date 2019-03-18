@@ -1,4 +1,2 @@
-var cryptonofa = require('src/cryptonofa')
-module.cryptonofa = function(){
-    return cryptonofa
-}
+import cryptonofa from './src/cryptonofa'
+module.exports = cryptonofa
