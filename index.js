@@ -1,3 +1,3 @@
 'use strict'
-const cryptonofa = require('./src/cryptonofa')
-module.exports = cryptonofa = cryptonofa
+import cryptonofa from './src/cryptonofa'
+module.exports = cryptonofa
