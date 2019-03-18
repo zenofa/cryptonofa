@@ -1,6 +1,6 @@
 {
   "name": "@zenofa/cryptonofa",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Cryptonofa - Hash & Encryption Library from Zenofa",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
     "Library"
   ],
   "author": "Zenofa",
+  "url": "https://github.com/zenofa/cryptonofa.git",
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^3.1.9-1"
