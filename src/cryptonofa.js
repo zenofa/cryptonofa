@@ -1,5 +1,5 @@
 'use strict'
-import CryptoJS from 'crypto-js'
+const CryptoJS = require('crypto-js')
 class Cryptonofa{
     static base64(){
         return CryptoJS.enc.Base64
