@@ -1,0 +1,21 @@
+{
+  "name": "@zenofa/cryptonofa",
+  "version": "1.0.0",
+  "description": "Cryptonofa - Hash & Encryption Library from Zenofa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cryptonofa",
+    "Zenofa",
+    "Encryption",
+    "Hash",
+    "Library"
+  ],
+  "author": "Zenofa",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
