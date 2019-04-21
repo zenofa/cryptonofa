@@ -1,9 +1,11 @@
 {
   "name": "@zenofa/cryptonofa",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Cryptonofa - Hash & Encryption Library from Zenofa",
-  "main": "index.js",
+  "main": "src/cryptonofa.js",
+  "types": "src/src/cryptonofa.d.ts",
   "scripts": {
+    "build": "tsc --declaration",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -17,6 +19,7 @@
   "url": "https://github.com/zenofa/cryptonofa.git",
   "license": "ISC",
   "dependencies": {
+    "@types/crypto-js": "^3.1.43",
     "crypto-js": "^3.1.9-1"
   }
 }
