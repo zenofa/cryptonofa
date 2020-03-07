@@ -1,11 +1,11 @@
 {
   "name": "@zenofa/cryptonofa",
-  "version": "1.0.10",
+  "version": "1.0.13",
   "description": "Cryptonofa - Hash & Encryption Library from Zenofa",
-  "main": "src/cryptonofa.js",
-  "types": "src/src/cryptonofa.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
-    "build": "tsc --declaration",
+    "build": "tsc --declaration index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
